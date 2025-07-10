@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba2332fe-03bd-4a75-8622-ebfef3e44edf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PythonSphinxProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mylib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mylib/math_utils.py" afterDir="false" />
-    </list>
+    <list default="true" id="ba2332fe-03bd-4a75-8622-ebfef3e44edf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +25,9 @@
     "accountId": "03de1cc4-c2aa-41e2-b78b-493ad0c92674"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/docs/source/conf.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -48,7 +42,6 @@
     "Python.math_utils.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "git-widget-placeholder": "gh-pages",
     "last_opened_file_path": "/Users/mlaricobar/Documents/06_Projects/PythonSphinxProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -105,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752112421685</updated>
       <workItem from="1752112422680" duration="1715000" />
-      <workItem from="1752117733133" duration="2628000" />
+      <workItem from="1752117733133" duration="2824000" />
     </task>
     <servers />
   </component>
